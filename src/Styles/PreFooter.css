@@ -1,0 +1,44 @@
+.PreFooter{
+    margin: 5vmax 0 0 0;
+    background-color: white;
+    padding: 1vmax;
+    padding-bottom: 0;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.PreFooter > div{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color:rgba(66, 66, 66, 0.829);
+cursor: pointer;
+}
+.PreFooter > div:hover svg{
+fill: rgb(34, 34, 34);
+}
+.PreFooter > div:hover p{
+    color: rgb(19, 18, 18);
+}
+
+
+.PreFooter svg{
+   transform: scale(2) translateY(-0.2vmax);
+   fill: rgba(37, 37, 37, 0.322);
+  margin: 2vmax;
+
+}
+
+.footerBorder{
+    background-color:   rgb(37, 37, 37)  ; 
+    color: white;
+    
+}
+.footerBorder >div{
+    border-top: 1px solid rgba(197, 197, 197, 0.185) ;
+    color: rgb(197, 197, 197);
+    width: 90vmax;
+    margin: auto;
+    padding: 2vmax;
+   font-size: 0.98vmax;
+}
