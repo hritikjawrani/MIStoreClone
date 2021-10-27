@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MIStoreClone/static/css/main.1bfa8932.chunk.css",
+    "main.js": "/MIStoreClone/static/js/main.da282c27.chunk.js",
+    "main.js.map": "/MIStoreClone/static/js/main.da282c27.chunk.js.map",
+    "runtime-main.js": "/MIStoreClone/static/js/runtime-main.33121f3a.js",
+    "runtime-main.js.map": "/MIStoreClone/static/js/runtime-main.33121f3a.js.map",
+    "static/css/2.2598ee71.chunk.css": "/MIStoreClone/static/css/2.2598ee71.chunk.css",
+    "static/js/2.8694ef31.chunk.js": "/MIStoreClone/static/js/2.8694ef31.chunk.js",
+    "static/js/2.8694ef31.chunk.js.map": "/MIStoreClone/static/js/2.8694ef31.chunk.js.map",
+    "index.html": "/MIStoreClone/index.html",
+    "static/css/2.2598ee71.chunk.css.map": "/MIStoreClone/static/css/2.2598ee71.chunk.css.map",
+    "static/css/main.1bfa8932.chunk.css.map": "/MIStoreClone/static/css/main.1bfa8932.chunk.css.map",
+    "static/js/2.8694ef31.chunk.js.LICENSE.txt": "/MIStoreClone/static/js/2.8694ef31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33121f3a.js",
+    "static/css/2.2598ee71.chunk.css",
+    "static/js/2.8694ef31.chunk.js",
+    "static/css/main.1bfa8932.chunk.css",
+    "static/js/main.da282c27.chunk.js"
+  ]
+}
